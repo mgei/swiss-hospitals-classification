@@ -13,3 +13,5 @@ Also we use the [Key figures for Swiss hospitals](https://www.bag.admin.ch/bag/d
 ## Notes
 
 I've also written a [blog post](https://www.econovo.ch/de/2019/03/18/fallzahlen-cluster/), see on my company website [www.econovo.ch](https://www.econovo.ch).
+
+The app is also live for trying here: http://swiss-hospitals-classification.econovo.io/
